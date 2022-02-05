@@ -1,3 +1,1 @@
 # AJ-Heller
-
-Hello World!
