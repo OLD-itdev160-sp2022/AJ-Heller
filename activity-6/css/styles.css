@@ -1,0 +1,19 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    max-width: 500px;
+    margin: 0 auto;
+}
+
+.messages {
+    margin-bottom: 20px;
+}
+
+.out-message {
+    padding: 5px;
+    background-color: rgb(218, 32, 32);
+}
+
+.in-message {
+    padding: 5px;
+    background-color: rgb(20, 231, 247);
+}
